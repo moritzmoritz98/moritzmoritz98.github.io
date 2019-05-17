@@ -26,11 +26,11 @@ projects:
     archived: false
     forks: true
     projects:
-      - "Delphi"
-      - "UnixScripts"
-      - "Conversations-Sticker-Edition"
-      - "Lamesauce"
-      - "Nuss-Flashlight"
+      - Delphi
+      - UnixScripts
+      - Conversations-Sticker-Edition
+      - Lamesauce
+      - Nuss-Flashlight
     # - repo-name
 
 social_media:
