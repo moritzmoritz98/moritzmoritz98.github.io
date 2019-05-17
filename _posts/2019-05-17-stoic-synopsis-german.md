@@ -4,7 +4,7 @@ published: true
 ---
 Freie Übersetzung und Anmerkungen der 124 Briefe von _L. ANNAEI SENECAE_ (c. 4 B.C. – A.D. 65).
 
-# Liber I - Epistularum moralium ad Lucilium liber primus
+# Liber primus
 ## Epistula I
 > SENECA LUCILIO SUO SALUTEM
 >
