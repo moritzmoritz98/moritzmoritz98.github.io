@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Epistulae morales ad Lucilium - „Briefe über Ethik an Lucilius“
 ---
 Freie Übersetzung und Anmerkung der 124 Briefe von L. ANNAEI SENECAE (c. 4 B.C. – A.D. 65).
