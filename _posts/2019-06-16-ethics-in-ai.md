@@ -51,4 +51,4 @@ published: true
 
 # KI Masterplan: wie holt Deutschland international auf?
 ## mit Dr. Daniel Feser
-https://www.technologiestiftung-berlin.de/fileadmin/user_upload/studie-kunestliche-intelligenz-in-berlin-und-brandenburg-daniel-feser-technologiestiftung-berlin.pdf
+[Studie zur KI der Technologiestiftung Berlin-Brandenburg](https://www.technologiestiftung-berlin.de/fileadmin/user_upload/studie-kunestliche-intelligenz-in-berlin-und-brandenburg-daniel-feser-technologiestiftung-berlin.pdf)
