@@ -13,7 +13,7 @@ published: true
 ## by Prof. Danko Nikolić
 - Human's conceptionize -> every kind of object could be used as a chair
 - Our most important concepts: self, time, profession
-- Proctopoesis: How came things to be?
+- [Practopoiesis](http://www.danko-nikolic.com/practopoiesis/): How came things to be?
   1. Genes
   2. Ackquired learning rules ( Long-Term Memory )
   3. Bot ( Short-Term Memory)
